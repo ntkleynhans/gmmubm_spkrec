@@ -2,6 +2,8 @@
 
 GMM-UBM Speaker recognition
 
+Written in 2006...
+
 kmeans
 ------
 cluster data using kmeans
